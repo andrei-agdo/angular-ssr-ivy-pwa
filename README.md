@@ -7,7 +7,7 @@ ng add @nguniversal/express-engine
 
 npm run build:ssr && npm run serve:ssr
 
------ Ivy
+----- Ivy -> TS.config.json
 
 "angularCompilerOptions": {
     "entryModule": "...............",
